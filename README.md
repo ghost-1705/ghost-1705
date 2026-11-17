@@ -27,13 +27,13 @@ Security researcher and technical instructor bridging adversary emulation (**Red
 
 <div align="center">
 
-| Credential | Specialization / Scope |
-| :--- | :--- |
-| **OSCP / CRTO** | Adversary Emulation, Active Directory Exploitation, Cobalt Strike / Sliver C2 |
-| **Cisco ISE 3.2** | Enterprise Network Access Control (NAC), 802.1X EAP-TLS, Dynamic Segmentation & dACLs |
-| **CEH Master / PNPT** | Enterprise Vulnerability Assessment & Practical Penetration Testing |
-| **NIST SP 800-207** | Enterprise Zero Trust Architecture & Policy Enforcement Design |
-| **Technical Instructor** | Accredited Lead for Hands-On Advanced Defensive & Offensive Labs |
+| Credential | Issuer | Scope & Verification |
+| :--- | :--- | :--- |
+| **Certified Ethical Hacker (CEH)** | **EC-Council** | Penetration Testing, Attack Vector Discovery • `ECC8745160392` |
+| **Certified Penetration Tester (CPT v3)** | **RedTeam Hacker Academy** | Enterprise Network Exploitation & Active Directory • `RTXSTU18967` |
+| **Certified Bug Bounty Hunter (BBH)** | **RedTeam Hacker Academy** | Web & API Security Auditing, OWASP Top 10 • `RTXSTU18967` |
+| **Advanced Diploma in Cyber Defense (ADCD v3)** | **RedTeam Hacker Academy** | Enterprise Cyber Defense & Incident Response • `RTXSTU18967` |
+| **Cyber SOC Analyst (CICSA)** | **RedTeam Hacker Academy** | IT Infrastructure Defense & SOC Telemetry • `RTXSTU18967` |
 
 </div>
 
